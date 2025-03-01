@@ -19,12 +19,11 @@ I'm a **Software Developer & AI Enthusiast** passionate about building intellige
 
 ### 📈 GitHub Stats
 
-![Pulith's GitHub Stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulithr&layout=compact&theme=radical&langs_count=6)
-)
+![Pulith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulithr&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulithr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulithr&layout=compact&theme=radical&langs_count=6)
 
 ### 📌 Featured Projects
 - 🎟 **[Real-Time Event Ticketing System](https://github.com/PulithR/Real-Time-Event-Ticketing-System-with-Producer-Consumer-Pattern)** (Java, Spring Boot, React, MySQL)
