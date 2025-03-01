@@ -31,7 +31,7 @@ I'm a **Software Developer & AI Enthusiast** passionate about building intellige
 - 🌊 **[Life Below Water Website](https://github.com/pulithr/life-below-water)** (HTML, CSS, JavaScript)
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulith-rajanayake)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulith-rajanayake-49860119a/)  
 
 Thanks for visiting! 🚀
 
