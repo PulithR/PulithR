@@ -26,7 +26,7 @@ I'm a **Software Developer & AI Enthusiast** passionate about building intellige
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulithr&layout=compact&theme=radical)
 
 ### 📌 Featured Projects
-- 🎟 **[Real-Time Event Ticketing System](https://github.com/pulithr/event-ticketing-system)** (Java, Spring Boot, React, MySQL)
+- 🎟 **[Real-Time Event Ticketing System](https://github.com/PulithR/Real-Time-Event-Ticketing-System-with-Producer-Consumer-Pattern)** (Java, Spring Boot, React, MySQL)
 - 🤖 **[AI Chat Assistant](https://github.com/pulithr/ai-chat-assistant)** (Python, NLP, React)
 - 🌊 **[Life Below Water Website](https://github.com/pulithr/life-below-water)** (HTML, CSS, JavaScript)
 
